@@ -20,8 +20,8 @@ course. All notebooks, unless otherwise indicated, have been created using the
 conjunction with [jupyter][jupyter]. Most of the code samples in the notebooks
 are written in Common Lisp ([SBCL][sbcl]).
 
-* [Section 1]nbviewer-section1] (Fixed points and stability)
-* [Section 2]nbviewer-section2] (Differential equations)
+* [Section 1][nbviewer-section1] (Fixed points and stability)
+* [Section 2][nbviewer-section2] (Differential equations)
 
 Those links use the [jupyter notebook viewer online service][nbviewer] to render
 the notebooks in this repository.
