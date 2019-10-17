@@ -62,7 +62,7 @@ Apache License, Version 2.0.
 [logo]: https://raw.githubusercontent.com/oubiwann/intro-abm/master/resources/images/complexity-explorer-logo-x250.jpg
 [logo-large]: https://raw.githubusercontent.com/oubiwann/intro-abm/master/resources/images/complexity-explorer-logo-x800.png
 [sfi]: https://www.santafe.edu/
-[ci]: https://www.complexityexplorer.org/
+[ce]: https://www.complexityexplorer.org/
 [intro-ds-and-chaos]: https://www.complexityexplorer.org/courses/97-introduction-to-complexity/
 [maxima]: http://maxima.sourceforge.net/
 [maxima-wiki]: https://en.wikipedia.org/wiki/Maxima_(software)
