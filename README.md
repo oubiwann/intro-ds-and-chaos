@@ -14,11 +14,11 @@ This repo holds text, notes, and code created while taking the
 
 ## Notebooks
 
-The list below links to course sections where I have created notebooks for this
-course. All notebooks, unless otherwise indicated, have been created using the
-[Maxima CAS][maxima] (see also the [Maxima Wikipedia article][maxima-wiki]) in
-conjunction with [jupyter][jupyter]. Most of the code samples in the notebooks
-are written in Common Lisp ([SBCL][sbcl]).
+The list below links to sections (typically once section is released per week)
+where I have created notebooks for this course. All notebooks, unless otherwise indicated, have been created using the [Maxima CAS][maxima]
+(see also the [Maxima Wikipedia article][maxima-wiki]) in conjunction with
+[jupyter][jupyter]. Most of the code samples in the notebooks are written in
+Common Lisp ([SBCL][sbcl]).
 
 * [Section 1][nbviewer-section1] (Fixed points and stability)
 * [Section 2][nbviewer-section2] (Differential equations)
