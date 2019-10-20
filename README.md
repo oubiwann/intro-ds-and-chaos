@@ -63,13 +63,13 @@ Apache License, Version 2.0.
 [logo-large]: https://raw.githubusercontent.com/oubiwann/intro-abm/master/resources/images/complexity-explorer-logo-x800.png
 [sfi]: https://www.santafe.edu/
 [ce]: https://www.complexityexplorer.org/
-[intro-ds-and-chaos]: https://www.complexityexplorer.org/courses/97-introduction-to-complexity/
+[intro-ds-and-chaos]: https://www.complexityexplorer.org/courses/98-introduction-to-dynamical-systems-and-chaos/
 [maxima]: http://maxima.sourceforge.net/
 [maxima-wiki]: https://en.wikipedia.org/wiki/Maxima_(software)
 [jupyter]: https://jupyter.org/
 [sbcl]: http://www.sbcl.org/
-[nbviewer-section1]: https://nbviewer.jupyter.org/github/oubiwann/intro-ds-and-chaos/blob/master/notebooks/Fixed%20Points%20and%20Stability.ipynb
-[nbviewer-section2]: https://nbviewer.jupyter.org/github/oubiwann/intro-ds-and-chaos/blob/master/notebooks/Calc%20Refresh%20and%20DiffEq%20Intro.ipynb
+[nbviewer-section1]: https://nbviewer.jupyter.org/github/oubiwann/intro-ds-and-chaos/blob/master/notebooks/Section%201%20-%20Fixed%20Points%20and%20Stability.ipynb
+[nbviewer-section2]: https://nbviewer.jupyter.org/github/oubiwann/intro-ds-and-chaos/blob/master/notebooks/Section%202%20-%20Calc%20Refresh%20and%20DiffEq%20Intro.ipynb
 [nbviewer-resources]: https://nbviewer.jupyter.org/github/oubiwann/intro-ds-and-chaos/blob/master/notebooks/Maxima%20Resources.ipynb
 [nbviewer]: https://nbviewer.jupyter.org/
 [lisp-in-maxima]: https://nbviewer.jupyter.org/github/calyau/maxima-tutorial-notebooks/blob/master/notebooks/Use%20of%20Lisp.ipynb
